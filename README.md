@@ -13,6 +13,7 @@
 - 🛠️ Cybersecurity | OffSec
 - 📊 Data Analysis & Machine Learning
 - 🕹️ Game Development (Unity)
+- 🐧 Linux
 
 ## 📈 My Stats
 <p align="center">
