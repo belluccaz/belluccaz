@@ -8,7 +8,7 @@
 ## 🚀 About Me
 💻 Full Stack Developer | 🏴‍☠️ CyberSecurity Enthusiast | ⚽ Corinthians 🖤🦅🤍
 
-## 🔥 Technologies I Use
+## 🔥 Technologies
 - 🚀 C# | Python | JavaScript | Node.js | Kotlin
 - 🛠️ Cybersecurity | OffSec
 - 📊 Data Analysis & Machine Learning
