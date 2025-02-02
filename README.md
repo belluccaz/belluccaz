@@ -1,8 +1,8 @@
 <h1 align="center">Olá, sou o Lucas! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/LucasBellucci?label=Seguidores&style=social" />
-  <img src="https://img.shields.io/github/stars/LucasBellucci?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/followers/belluccaz?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/stars/belluccaz?label=Stars&style=social" />
 </p>
 
 ## 🚀 Sobre mim
