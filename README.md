@@ -10,9 +10,9 @@
 
 ## 🔥 Tecnologias que uso
 - 🚀 C# | .NET | Python | JavaScript | Kotlin
-- 🛠️ Segurança da Informação | Hacking Red Team
+- 🛠️ Segurança da Informação | OffSec
 - 📊 Análise de dados e Machine Learning
-- 🕹️ Desenvolvimento de jogos
+- 🕹️ Desenvolvimento de jogos (Unity)
 
 ## 📈 Minhas estatísticas
 <p align="center">
