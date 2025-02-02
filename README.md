@@ -9,7 +9,7 @@
 💻 Full Stack Developer | 🏴‍☠️ CyberSecurity Enthusiast | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies I Use
-- 🚀 C# | Python | JavaScript | Node.js | React | Kotlin
+- 🚀 C# | Python | JavaScript | Node.js | Kotlin
 - 🛠️ Cybersecurity | OffSec
 - 📊 Data Analysis & Machine Learning
 - 🕹️ Game Development (Unity)
