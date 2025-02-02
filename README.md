@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me
-💻 Full Stack Developer | 🏴‍☠️ Offensive Security Enthusiast | ⚽ Corinthians fan
+💻 Full Stack Developer | 🏴‍☠️ Offensive Security Enthusiast | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies I Use
 - 🚀 C# | .NET | Python | JavaScript | Kotlin
