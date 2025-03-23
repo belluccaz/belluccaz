@@ -6,12 +6,12 @@
 </p>
 
 ## 🚀 About Me
-💻 Full Stack Developer | 🏴‍☠️ CyberSecurity Enthusiast | ⚽ Corinthians 🖤🦅🤍
+💻 Full Stack Developer | Data Scientist | 🏴‍☠️ CyberSecurity Enthusiast | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies
 - 🚀 C# | Python | JavaScript | Node.js | Kotlin
 - 🛠️ Cybersecurity | OffSec
-- 📊 Data Analysis & Machine Learning
+- 📊 Data Science & Machine Learning
 - 🕹️ Game Development (Unity)
 - 🐧 Linux
 
