@@ -10,7 +10,6 @@
 
 ## 🔥 Technologies
 - 🚀 C# | Python | Node.js | Java | Linux
-- 🛠️ Cybersecurity | OffSec
 - 📊 Data Science & Machine Learning
 - 🕹️ Game Development (Unity)
 - 🐧 Linux
