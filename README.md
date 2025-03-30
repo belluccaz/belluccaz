@@ -9,7 +9,7 @@
 💻 Full Stack Developer | Data Scientist | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies
-- 🚀 C# | Python | R | Node.js | Java
+- 🚀 C# | Python | Node.js | Java | Linux
 - 🛠️ Cybersecurity | OffSec
 - 📊 Data Science & Machine Learning
 - 🕹️ Game Development (Unity)
