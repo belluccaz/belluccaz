@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me
-💻 Software Developer | Data Scientist | ⚽ Corinthians 🖤🦅🤍
+💻 Software Developer | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies
 - 🚀 C# | Python | Node.js | Java | Linux
