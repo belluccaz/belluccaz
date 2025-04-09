@@ -9,7 +9,7 @@
 💻 Fullstack Developer | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies
-- 🚀 C# | Python | Node.js | Java | Linux
+- 🚀 C# | .NET | React | Node.js | Python | SQL | Linux
 - 📊 Data Science & Machine Learning
 - 🕹️ Game Development (Unity)
 - 🐧 Linux
