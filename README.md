@@ -24,5 +24,4 @@
 
 ### 📫 How to Reach Me:
 📩 Email: [lucas.bellucci@icloud.com](mailto:lucas.bellucci@icloud.com)  
-🐦 Twitter: [@thematrixbunny](https://twitter.com/thematrixbunny)  
 📌 LinkedIn: [Lucas Bellucci](https://www.linkedin.com/in/lucas-bellucci-353b10298)
