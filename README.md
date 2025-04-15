@@ -10,8 +10,8 @@
 
 ## 🔥 Technologies
 - 🚀 C# | .NET | React | Node.js | Python | SQL | Linux
-- 📊 Data Science & Machine Learning
-- 🕹️ Game Development (Unity)
+- 🎵 Music
+- 🕹️ Games
 - 🐧 Linux
 
 ## 📈 My Stats
