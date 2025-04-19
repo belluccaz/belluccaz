@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me
-💻 Fullstack Developer | ⚽ Corinthians 🖤🦅🤍
+💻 Software Developer | ⚽ Corinthians 🖤🦅🤍
 
 ## 🔥 Technologies
 - 🚀 C# | .NET | React | Node.js | Python | SQL 
