@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas, sou um cara apaixonado por criar sistemas do zero — com base sólida, boas práticas e aquele cuidado que só quem já lidou com o caos entende.  <br><br>Faço da tecnologia uma extensão do pensamento crítico: gosto de entender o problema antes de pensar na solução, e de transformar complexidade em clareza.</p>
+<p align="left">Meu nome é Lucas, sou um desenvolvedor apaixonado por criar sistemas do zero — com base sólida, boas práticas e aquele cuidado que só quem já lidou com o caos entende.  <br><br>Faço da tecnologia uma extensão do pensamento crítico: gosto de entender o problema antes de pensar na solução, e de transformar complexidade em clareza.</p>
 
 ###
 
