@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas, sou um desenvolvedor apaixonado por criar sistemas do zero — com base sólida, boas práticas e aquele cuidado que só quem já lidou com o caos entende.  <br><br>Faço da tecnologia uma extensão do pensamento crítico: gosto de entender o problema antes de pensar na solução, e de transformar complexidade em clareza.</p>
+<p align="left">Desenvolvedor em formação com base sólida em organização de código e resolução de problemas. Busco clareza e propósito no que desenvolvo, com experiência em várias linguagens (C, C++, C#, Java, Python, JS, TypeScript, Kotlin) e frameworks como React, .NET e Django. Tenho facilidade em aprender, adaptar tecnologias e trabalhar com SQL, Docker, Git e metodologias ágeis.</p>
 
 ###
 
