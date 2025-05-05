@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em formação com base sólida em organização de código e resolução de problemas. Busco clareza e propósito no que desenvolvo, com experiência em várias linguagens (C, C++, C#, Java, Python, JS, TypeScript, Kotlin) e frameworks como React, .NET e Django. Tenho facilidade em aprender, adaptar tecnologias e trabalhar com SQL, Docker, Git e metodologias ágeis.</p>
+<p align="left">Desenvolvedor em formação com base sólida em organização de código e resolução de problemas. Busco clareza e propósito no que desenvolvo, com experiência em várias linguagens (C, C++, C#, Java, Python, JS, TypeScript, Kotlin), bibliotecas e frameworks como React, .NET e Django. Tenho facilidade em aprender, adaptar tecnologias e trabalhar com SQL, Docker, Git e metodologias ágeis.</p>
 
 ###
 
