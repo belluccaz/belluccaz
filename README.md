@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor em formação com base sólida em organização de código e resolução de problemas. Busco clareza e propósito no que desenvolvo, com experiência em várias linguagens (C, C++, C#, Java, Python, JS, TypeScript, Kotlin), bibliotecas e frameworks como React, .NET e Django. Tenho facilidade em aprender, adaptar tecnologias e trabalhar com SQL, Docker, Git e metodologias ágeis.</p>
+<p align="left">Meu nome é Lucas Bellucci Almendra. Sou desenvolvedor, criador, pensador — e, mais do que isso, alguém em busca de propósito, de conexão real com o mundo e com as pessoas. Sempre fui movido por uma vontade intensa de entender como as coisas funcionam — desde os códigos que rodam nos bastidores da internet até os sistemas que organizam nossas vidas. Tenho experiência em várias linguagens (C, C++, C#, Java, Python, JS, TypeScript, Kotlin), bibliotecas e frameworks como React, .NET e Django. Tenho facilidade em aprender, adaptar tecnologias e trabalhar com SQL, Docker, Git e metodologias ágeis.</p>
 
 ###
 
