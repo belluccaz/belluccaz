@@ -4,7 +4,7 @@
 
 <p align="left">Desenvolvedor Full Stack com foco em tecnologias C#/.NET no back-end e React/TypeScript no front-end, apaixonado por criar aplicações web eficientes e escaláveis. 
 
-Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores – de um sistema ERP para marketplaces a uma plataforma open-source de análise de loterias – aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. </p>
+Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. </p>
 
 ###
 
