@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Meu nome é Lucas Bellucci Almendra. Sou desenvolvedor, criador, pensador — e, mais do que isso, alguém em busca de propósito, de conexão real com o mundo e com as pessoas. Sempre fui movido por uma vontade intensa de entender como as coisas funcionam — desde os códigos que rodam nos bastidores da internet até os sistemas que organizam nossas vidas. Tenho experiência em várias linguagens (C, C++, C#, Java, Python, JS, TypeScript, Kotlin), bibliotecas e frameworks como React, .NET e Django. Tenho facilidade em aprender, adaptar tecnologias e trabalhar com SQL, Docker, Git e metodologias ágeis.</p>
+<p align="left">Desenvolvedor Full Stack com foco em tecnologias C#/.NET no back-end e React/TypeScript no front-end, apaixonado por criar aplicações web eficientes e escaláveis. 
+
+Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores – de um sistema ERP para marketplaces a uma plataforma open-source de análise de loterias – aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. </p>
 
 ###
 
