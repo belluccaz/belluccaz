@@ -1,10 +1,14 @@
-<h1 align="left">👋 Salve, visitante!</h1>
+<h1 align="left">👋 Salve, Desperto!</h1>
 
 ###
 
-<p align="left">Desenvolvedor Full Stack com foco em tecnologias C#/.NET no back-end e React/TypeScript no front-end, apaixonado por criar aplicações web eficientes e escaláveis. 
+<p align="left">Tecnicamente falando, sou: desenvolvedor Full Stack com foco em tecnologias C#/.NET no back-end e React/TypeScript no front-end, apaixonado por criar aplicações web eficientes e escaláveis. 
 
-Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. </p>
+Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. 
+
+Quer me conhecer melhor? Siga as pegadas do coelho.
+
+</p>
 
 ###
 
