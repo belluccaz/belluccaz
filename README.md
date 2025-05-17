@@ -6,7 +6,7 @@
 
 Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. 
 
-Quer me conhecer melhor? Siga as pegadas do coelho.
+Quer me conhecer melhor? Siga as pegadas.
 
 </p>
 
