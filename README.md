@@ -1,13 +1,13 @@
 <h1 align="left">👋 Salve, Desperto!</h1>
 
-###
+<p align="left">
+Sou Lucas Bellucci Almendra — desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
 
-<p align="left">Tecnicamente falando, sou: desenvolvedor Full Stack com foco em tecnologias C#/.NET no back-end e React/TypeScript no front-end, apaixonado por criar aplicações web eficientes e escaláveis. 
+Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
-Fundador de uma microempresa de soluções tecnológicas (The Matrix Bunny), onde lidero projetos desafiadores aplicando boas práticas de arquitetura (Clean Architecture, DDD) e metodologias ágeis. 
+Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real. 🧠
 
 Quer me conhecer melhor? Siga as pegadas.
-
 </p>
 
 ###
