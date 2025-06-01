@@ -1,7 +1,7 @@
-<h1 align="left">👋 Salve, Desperto!</h1>
+<h1 align="left">👋 Oi, Desperto!</h1>
 
 <p align="left">
-Sou Lucas Bellucci Almendra — desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
+Sou Lucas — desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
