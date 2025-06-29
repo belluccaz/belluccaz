@@ -1,7 +1,7 @@
 <h1 align="left">👋 Oi!</h1>
 
 <p align="left">
-Desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
+Desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com o propósito de Deus.
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
