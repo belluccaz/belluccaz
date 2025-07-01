@@ -5,7 +5,7 @@ Desenvolvedor full stack comprometido com a construção de aplicações eficien
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
-Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real. 🧠
+Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, Verdade e impacto real. 
 
 Quer me conhecer melhor? Siga as pegadas.
 </p>
