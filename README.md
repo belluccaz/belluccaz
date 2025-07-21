@@ -1,13 +1,13 @@
 <h1 align="left">👋 Hi, visitor!</h1>
 
 <p align="left">
-Developer committed to building efficient, scalable, and purposeful applications.
+I'm a developer committed to building efficient, scalable, and functional applications.
 
-I'm studying CyberSecurity and have an active profile in some platform labs.
+I'm studying Cybersecurity, focusing on offensive security.
 
-I work with multiple technologies and architectures, always guided by best practices, strategic vision, and code ethics.
+I work with a variety of technologies and architectures, always guided by best practices, strategic vision, and code ethics.
 
-Systems, for me, need to function beyond logic: they must convey intention, truth, and real impact.
+For me, systems need to function beyond logic: they must convey intent, truth, and real impact.
 </p>
 
 <div align="center">
