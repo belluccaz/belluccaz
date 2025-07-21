@@ -3,7 +3,7 @@
 <p align="left">
 Developer committed to building efficient, scalable, and purposeful applications.
 
-I study Cybersecurity and have an active profile in some labs.
+I'm studying Cybersecurity and have an active profile in some platform labs.
 
 I work with multiple technologies and architectures, always guided by best practices, strategic vision, and code ethics.
 
