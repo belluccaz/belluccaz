@@ -1,4 +1,4 @@
-<h1 align="left">👋 Oi!</h1>
+<h1 align="left">👋 Oi, visitante!</h1>
 
 <p align="left">
 Desenvolvedor comprometido com a construção de aplicações eficientes, escaláveis e com propósito.
