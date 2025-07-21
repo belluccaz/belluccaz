@@ -3,11 +3,12 @@
 <p align="left">
 Desenvolvedor comprometido com a construção de aplicações eficientes, escaláveis e com propósito.
 
+Estudo Cyber Segurança e tenho perfil ativo em alguns labs.
+
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
-Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, Verdade e impacto real. 
+Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real. 
 
-Quer me conhecer melhor? Siga as pegadas.
 </p>
 
 <div align="center">
