@@ -1,14 +1,13 @@
-<h1 align="left">👋 Oi, visitante!</h1>
+<h1 align="left">👋 Hi, visitor!</h1>
 
 <p align="left">
-Desenvolvedor comprometido com a construção de aplicações eficientes, escaláveis e com propósito.
+Developer committed to building efficient, scalable, and purposeful applications.
 
-Estudo Cyber Segurança e tenho perfil ativo em alguns labs.
+I study Cybersecurity and have an active profile in some labs.
 
-Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
+I work with multiple technologies and architectures, always guided by best practices, strategic vision, and code ethics.
 
-Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real. 
-
+Systems, for me, need to function beyond logic: they must convey intention, truth, and real impact.
 </p>
 
 <div align="center">
