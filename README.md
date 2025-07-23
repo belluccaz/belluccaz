@@ -3,7 +3,7 @@
 <p align="left">
 I'm a developer committed to building efficient, scalable, and functional applications.
 
-I'm studying Cybersecurity, focusing on offensive security.
+I'm studying Cybersecurity.
 
 I work with a variety of technologies and architectures, always guided by best practices, strategic vision, and code ethics.
 
