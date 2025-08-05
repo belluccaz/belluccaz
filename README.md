@@ -1,11 +1,11 @@
 <h1 align="left">👋 Hi, visitor!</h1>
 
 <p align="left">
-I need your help to become a developer committed to building efficient, scalable, and functional applications.
+I'm a developer committed to building efficient, scalable, and functional applications.
 
-I'm studying Cybersecurity to make it work.
+Studying Cybersecurity to make it work.
 
-I'm trying to do it with a variety of technologies and architectures, always guided by best practices, strategic vision, and code ethics.
+I work with a variety of technologies and architectures, always guided by best practices, strategic vision, and code ethics.
 
 For me, systems need to function beyond logic: they must convey intent, truth, and real impact.
 </p>
