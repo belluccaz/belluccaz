@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, visitor!</h1>
+<h1 align="left">Hi, visitor!</h1>
 
 <p align="left">
 I'm a developer committed to building efficient, scalable, and functional applications.
